@@ -22,4 +22,5 @@ fuse						10A						 2	AVT
 fuse socket					5 x 20 mm with wires				 2 	Botland
 DC Barrel Jack - 5.5x2.1mm, Panel Mount		2179						 2	Botland: KAB-09351
 Accessories Solderable Breadboard		SparkFun PRT-12070				 1	Mouser: 474-PRT-12070
-					
+Solar kit (140W panel with 12V/10A regulator)	VoLT PL Solarny140 ZES262			 1	Tooles.pl					
+VRLA AGM Battery				OP-33-12 12V33Ah				 1	Tooles.pl
