@@ -1,0 +1,25 @@
+Bill of Materials for Solar-DC Power Backup Rev 1.0
+
+=============================================================================================================================
+Device Type					Model						Qty	Seller:product code
+=============================================================================================================================
+Resistor					220ohm						 4	AVT
+Resistor					10k						 2	AVT
+Resistor					20k						 1	AVT
+Mounting Potentiometer				10k						 1	AVT
+Schottky Diode					1N5822						 2	AVT
+LED 3mm						bi-color (red,green)				 1	AVT
+Dual Comparator					LM358						 1	AVT
+Screw Connector					2 fields, raster: 3.5mm, height=8.6mm 		 3	AVT
+Through Hole 3mm Short Lens Blue                Lumex SSL-LX3044USBC                             2      Mouser: 696-SSL-LX3044USBC
+Plastic Bevel LED Holder 3mm                    Adafruit accessories                             3      Mouser: 485-2179
+Black Chassie axbxcmm	                        Kradex 	                                         1      AVT:
+Kycon DC Power Connector                        KPPX-4P                                          1      Mouser: 806-KPPX-4P
+Kycon DC Power Connector                        KPJX-PM-4S-S                                     1      Mouser: 806-KPJX-PM-4S-S
+screws M2x20                                    length: 20mm, diameter: M2 (2mm)                 2      Allegro/jack20prv
+nuts M2                                         diameter:M2 (2mm)                                2      Allegro/jack20prv
+fuse						10A						 2	AVT
+fuse socket					5 x 20 mm with wires				 2 	Botland
+DC Barrel Jack - 5.5x2.1mm, Panel Mount		2179						 2	Botland: KAB-09351
+Accessories Solderable Breadboard		SparkFun PRT-12070				 1	Mouser: 474-PRT-12070
+					
